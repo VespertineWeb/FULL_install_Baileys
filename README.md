@@ -4,8 +4,9 @@ sudo apt -y update && apt -y upgrade
 ```
 ```bash
 adduser deploy
-```
 usermod -aG sudo deploy
+
+```
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO:
 
